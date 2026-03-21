@@ -6,3 +6,9 @@
 <p align="center">  𓏏𓏏𓏏𓏏𓏏𓏏𓏏𓏏𓏏
   
 <p align="center">  ﾐーゝー]⠀⠀⠀ 𝇃𝇂   ⠀⠀⠀⠀zyrel  ⼃ aaron 
+
+
+
+
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wazz5uu73nrsfmgoncbq3wxg2a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31wazz5uu73nrsfmgoncbq3wxg2a&redirect=true)
